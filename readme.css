@@ -219,7 +219,7 @@ a {
   background-color: rgb(215, 215, 215);
   border-radius: 5px;
   display: flex;
-  height: 5px;
+  height: 6px;
   margin-bottom: 50px;
   width: 100%;
 }
@@ -269,7 +269,7 @@ a {
   opacity: 0.5;
 }
 
-/* .tooltip1 {
+.tooltip1 {
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted rgb(250, 185, 91);
@@ -298,9 +298,8 @@ a {
   padding: 2px 0px;
   position: absolute;
   z-index: 1;
-  top: 150%;
-  left: 50%;
-  margin-left: 595px;
+  top: 235%;
+  left: 97%;
 }
 
 .tooltip2 .tooltiptext2{
@@ -314,9 +313,8 @@ a {
   padding: 2px 0px;
   position: absolute;
   z-index: 1;
-  top: 150%;
-  left: 50%;
-  margin-left: 498px;
+  top: 235%;
+  left: 96.5%;
 }
 
 .tooltip3 .tooltiptext3{
@@ -330,9 +328,8 @@ a {
   padding: 2px 0px;
   position: absolute;
   z-index: 1;
-  top: 150%;
-  left: 50%;
-  margin-left: 630px;
+  top: 235%;
+  left: 97.25%;
 }
 
 .tooltip1 .tooltiptext1::after {
@@ -378,7 +375,7 @@ a {
 
 .tooltip3 .tooltiptext3 {
   visibility: visible;
-} */
+} 
 
 .bg-img4 {
   background-color: rgb(250, 185, 91);
@@ -610,7 +607,7 @@ input[type=text2], textarea {
   cursor: pointer;
   padding-top: 12px;
   padding-bottom: 12px;
-  margin-left: 200px;
+  margin-left: 15%;
   text-align: center;
   width: 150px;
 }
@@ -791,8 +788,7 @@ input[type=text2], textarea {
     width: 100%;
   }
 
-  #query6-send {
-    margin-left: 2%;
+  .bg6-btn {
     margin-bottom: 40px;
     width: auto;
   }
@@ -917,8 +913,7 @@ input[type=text2], textarea {
     width: 100%;
   }
 
-  #query6-send {
-    margin-left: 2%;
+  .bg6-btn {
     margin-bottom: 40px;
     width: auto;
   }
@@ -1050,8 +1045,7 @@ input[type=text2], textarea {
     width: 100%;
   }
 
-  #query6-send {
-    margin-left: 2%;
+  .bg6-btn {
     margin-bottom: 40px;
     width: auto;
   }
@@ -1183,8 +1177,7 @@ input[type=text2], textarea {
     width: 100%;
   }
 
-  #query6-send {
-    margin-left: 2%;
+  .bg6-btn {
     margin-bottom: 40px;
     width: auto;
   }
@@ -1316,12 +1309,10 @@ input[type=text2], textarea {
     width: 100%;
   }
 
-  #query6-send {
-    margin-left: 2%;
+  .bg6-btn {
     margin-bottom: 40px;
     width: auto;
   }
-
   .bg-img7 {
     height: auto;
     width: auto;
