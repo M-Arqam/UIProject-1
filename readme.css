@@ -522,7 +522,7 @@ input[type=text2], textarea {
   text-align: left;
 }
 
-input[type=send-message] {
+bg6-btn {
   background-color: rgb(52, 58, 63);
   border-radius: 25px;
   border: none;
@@ -535,7 +535,7 @@ input[type=send-message] {
   width: auto;
 }
 
-input[type=send-message]:hover {
+bg6-btn:hover {
   background-color: white;
   color: rgb(52, 58, 63);
 }
