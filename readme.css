@@ -610,9 +610,9 @@ input[type=text2], textarea {
   cursor: pointer;
   padding-top: 12px;
   padding-bottom: 12px;
-  margin-left: 150px;
+  margin-left: 200px;
   text-align: center;
-  width: auto;
+  width: 150px;
 }
 
 .bg6-btn:hover {
